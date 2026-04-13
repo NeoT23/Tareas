@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body style="font-family: helvetica; background-color: #ABF0F5; margin: 30px; text-align: center">
+
+<h1 style="font-size: 42px; color: #034F54">Esta es mi página web</h1>
+
+<p>Y yo soy <b>Neil Goyes Recalde</b> estudiante de la carrera de <b>Ingeniería en Software de la Universidad de Guayaquil</b>. Tengo 20 años y soy del <b>Cantón Montalvo</b>, ubicado en la provincia de Los Ríos. Soy fánatico de los libros, cómics, series animadas y videojuegos. </p>
+<br>
+<p> Entre mis videojuegos favoritos están:</p>
+<ul style="font-size: 18px; list-style-position: inside; text-align: left; max-width: 800px; margin: auto">
+<li>
+<b> Minecraft: </b> "Es un videojuego de construcción de tipo sandbox creado originalmente por el sueco Markus Persson, que creó posteriormente Mojang Studios."
+</li>
+<li>
+<b> Hollow Knight: </b> "Es un videojuego perteneciente al género metroidvania desarrollado por el estudio indie Cherry Studios."
+</li>
+<li>
+<b> Minecraft: </b> "Minecraft es un videojuego de construcción de tipo sandbox creado originalmente por el sueco Markus Persson, que creó posteriormente Mojang Studios."
+</li>
+
+
+</ul>
+
+</body>
+</html>
